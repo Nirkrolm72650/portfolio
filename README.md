@@ -1,4 +1,4 @@
-# Portfolio Cybersécurité - [GUYON BRandon]
+# Portfolio Cybersécurité - [GUYON Brandon]
 
 ## À Propos de Moi
 👨‍💻 Étudiant en BTS SIO passionné par la cybersécurité, spécialisé dans l'analyse SOC et la réponse aux incidents. Actuellement en formation et à la recherche d'une alternance dans le domaine de la cybersécurité.
@@ -31,20 +31,17 @@
 ## Projets
 ### 🛡️ Détection & Réponse aux Incidents
 
-- [Nom du Projet 1](lien)
-- [Nom du Projet 2](lien)
+- [Détection de menaces Brute Force](lien) - à venir
 
 ### 🔍 Analyse de Sécurité
-- [Nom du Projet 1](lien)
-- [Nom du Projet 2](lien)
+- [Analyse de vulnérabilité avec Nmap](lien) - à venir
 
 ### 🤖 Automatisation
-- [Nom du Projet 1](lien)
-- [Nom du Projet 2](lien)
+- [Scanneur de port basique](lien) - à venir
 
 ## Certifications
 - Pre Security Learning Path - TryHackMe
-- [Certification 2]
+- SOC Level 1 - TryHackMe (En cours)
 
 ## Formations
 - BTS SIO SISR en alternance - Technicien informatique (2023 - 2025) - Bac +2
