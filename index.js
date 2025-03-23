@@ -36,7 +36,7 @@ const projects = [
         title: "Infrastructure épreuve E6 - BTS ",
         description: "Mise en place d'une infrastructure virtualisée complète pour répondre au référentiel du BTS SIO SISR.",
         category: "sysadmin",
-        image: "./img/infra_E5.png",
+        image: "./img/Infra_E5.png",
         details: [
             "Configuration des firewall",
             "Mise en place de la haute disponibilité",
