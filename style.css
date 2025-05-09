@@ -24,6 +24,8 @@ body {
     background-color: var(--bg-color);
 }
 
+
+
 /* Navigation */
 nav {
     position: fixed;
@@ -385,14 +387,17 @@ h2 {
 
 /* Contact Section */
 .contact-content {
-    max-width: 800px;
+    max-width: 850px;
     margin: 0 auto;
 }
 
 .contact-info {
-    display: grid;
+    /*display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 2rem;
+    gap: 2rem;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .contact-item {

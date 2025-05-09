@@ -214,3 +214,4 @@ document.addEventListener('DOMContentLoaded', () => {
     createTimeline();
     createProjects();
 });
+  
