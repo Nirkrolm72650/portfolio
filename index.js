@@ -47,7 +47,7 @@ const projects = [
         title: "Infrastructure Umbrella Corporation ",
         description: "Mise en place d'une infrastructure virtualisée complète et sécurisée (En cours)",
         category: "security",
-        image: "https://placehold.co/600x400/2563eb/ffffff?text=Umbrella+Corporation",
+        image: "./img/umbrella_project.png",
         details: [
             "Mise en place d'un SOC",
             "Mise en place du réseau LAN",
