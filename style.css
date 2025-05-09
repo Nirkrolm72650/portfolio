@@ -406,7 +406,9 @@ h2 {
     color: var(--primary-color);
 }
 
-.contact-item a {
+.contact-item a:link,
+.contact-item a:visited,
+.contact-item a:active {
     text-decoration: none;
     color: black;
 }
