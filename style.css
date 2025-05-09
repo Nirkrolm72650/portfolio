@@ -24,8 +24,6 @@ body {
     background-color: var(--bg-color);
 }
 
-
-
 /* Navigation */
 nav {
     position: fixed;
@@ -384,6 +382,7 @@ h2 {
 .overlay.active {
     display: block;
 }
+  
 
 /* Contact Section */
 .contact-content {
