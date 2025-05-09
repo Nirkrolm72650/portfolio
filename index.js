@@ -121,7 +121,7 @@ function createProjects() {
         const element = document.createElement('div');
         element.className = `project-card ${project.category}`;
         element.innerHTML = `
-            <img src="${project.image}" alt="${project.title}">
+            <img src="${project.image}" alt="${project.title}>
             <div class="project-info">
                 <h3>${project.title}</h3>
                 <p>${project.description}</p>
